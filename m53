@@ -1,0 +1,8 @@
+. main()
+{
+ int a = 0;
+ if(a)
+ printf("Study");
+ else
+ printf("tonight");
+}
